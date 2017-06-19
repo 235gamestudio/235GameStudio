@@ -1,0 +1,152 @@
+﻿  Game.cpp
+  GameMap.cpp
+GameMap.cpp(22): warning C4018: '<': signed/unsigned mismatch
+GameMap.cpp(50): warning C4018: '<': signed/unsigned mismatch
+GameMap.cpp(59): warning C4018: '<': signed/unsigned mismatch
+GameMap.cpp(209): warning C4018: '>=': signed/unsigned mismatch
+GameMap.cpp(233): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameMap.cpp(234): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameTimer.cpp
+  GameWindow.cpp
+  Player.cpp
+Player.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(166): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(200): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(201): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(210): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(230): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(231): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(233): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(234): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(243): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(244): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(263): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(264): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(266): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(276): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(277): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(296): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(297): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(299): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(300): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(309): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(310): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(328): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(329): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(331): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(332): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(341): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(342): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(372): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(375): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(376): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(385): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(386): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(406): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(407): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(409): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(410): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(419): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(420): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(440): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(441): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(443): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(444): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(453): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(454): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(474): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(475): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(477): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(478): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(487): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(488): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(507): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(508): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(510): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(511): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(520): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(521): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(540): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(541): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(543): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(544): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(553): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(554): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(573): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(574): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(576): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(577): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(586): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(587): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(606): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(607): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(609): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(610): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(619): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(620): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GuiBar.cpp
+  GuiButton.cpp
+  GuiEditBox.cpp
+  GuiEditor.cpp
+  GuiFileDialog.cpp
+  GuiImage.cpp
+  GuiLayout.cpp
+  GuiLayoutFactory.cpp
+  GuiManager.cpp
+  GuiRefButton.cpp
+  GuiRenderer.cpp
+  GuiRendererSDL.cpp
+  GuiScrollBar.cpp
+  GuiShopDialog.cpp
+  GuiText.cpp
+  Compiling...
+  GuiTreeView.cpp
+  GuiTreeViewLayout.cpp
+  GuiTreeViewNode.cpp
+gui\GuiTreeViewNode.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  GuiWindow.cpp
+gui\GuiWindow.cpp(185): warning C4390: ';': empty controlled statement found; is this the intent?
+  main.cpp
+libtmxlite-s-d.lib(Property.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(Property.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(Property.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+libtmxlite-s-d.lib(ObjectGroup.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(ObjectGroup.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(TileLayer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(TileLayer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(Map.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(Map.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(pugixml.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(pugixml.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(Object.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(Object.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(FreeFuncs.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(FreeFuncs.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(Tileset.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(Tileset.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+libtmxlite-s-d.lib(ImageLayer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Game.obj
+libtmxlite-s-d.lib(ImageLayer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Game.obj
+LINK : fatal error LNK1104: cannot open file 'libboost_filesystem-vc140-mt-1_64.lib'
